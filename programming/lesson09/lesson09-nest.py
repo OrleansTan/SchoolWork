@@ -51,7 +51,7 @@ students_with_score = {
     "Tanner": 64.0
     "sam": 75.2
     "zaki": 88.0
-    'jai': 91.8
+    'jai': 91.8.
   }
 d2 =   {
      "Tanner": "Maths"

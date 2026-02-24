@@ -51,3 +51,14 @@ my_list_appended.append ('A')
 print(my_list_appended)
 my_list_appended = my_list + ["y"]
 print(my_list_appended)
+
+my_list_appended.remove("i")
+print(my_list_appended)
+
+
+if "z" in my_list_appended:
+    my_list_appended.remove("z")
+else:
+    print("z was never there ")
+
+print(f"After pop!(): ")
