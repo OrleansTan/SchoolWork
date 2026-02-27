@@ -1,0 +1,7 @@
+# Write and submit a text file, model_choice.txt, which answers each of the following (1-2 points per part):
+# • In 120 - 180 words, compare list-of-lists and list-of-dictionaries for the same small dataset.
+# • Explain how you would access a specific value in each model with a short example.
+# • State one benefit and one drawback for each representation.
+# • Describe when converting between the two shapes is helpful.
+# • Use clear, concrete language from lessons 00 - 09 only.
+# • Avoid references to external libraries.
